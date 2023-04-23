@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭   I’m currently learning HTML 5 and CSS<br>🤔   Exploring new technologies<br>🎓   Studying Computer Science, computer programming<br>💼   full-stack developer and Data science.<br>🌱   Enthusiast in full-Stack and Artificial Intelligence .
+🔭   I’m currently learning HTML 5 and CSS<br>🤔   Exploring new technologies<br>🎓   Studying Computer Science, computer programming<br>💼  Want to become full-stack developer and Data science.<br>🌱   Enthusiast in full-Stack and Artificial Intelligence .
 
 
 ## 🌐 Socials:
