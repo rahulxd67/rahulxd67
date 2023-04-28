@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://drive.google.com/file/d/1u_5c_R_xFWNqO7p2NXKv5h9oUp-QTYNY/view?usp=sharing">
+<img align="right" alt="my banner" width="400" src="https://drive.google.com/file/d/1u_5c_R_xFWNqO7p2NXKv5h9oUp-QTYNY/view?usp=sharing">
 🔭   I’m currently learning HTML 5 and CSS<br>🤔   Exploring new technologies<br>🎓   Studying Computer Science, computer programming<br>💼  Want to become full-stack developer and Data science.<br>🌱   Enthusiast in full-Stack and Artificial Intelligence .<br>
 
 
