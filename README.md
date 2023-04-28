@@ -1,5 +1,5 @@
+[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 # 💫 About Me:
-<img align="right" alt="my banner" width="400" src="https://drive.google.com/file/d/1u_5c_R_xFWNqO7p2NXKv5h9oUp-QTYNY/view?usp=sharing">
 🔭   I’m currently learning HTML 5 and CSS<br>🤔   Exploring new technologies<br>🎓   Studying Computer Science, computer programming<br>💼  Want to become full-stack developer and Data science.<br>🌱   Enthusiast in full-Stack and Artificial Intelligence .<br>
 
 
