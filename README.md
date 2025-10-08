@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rahul Kumar
+# 👋 Hi, I'm Rahul Singh
 
 💻 **Backend Developer | Python | Django | FastAPI**  
 🌍 Based in India | Open to Remote / Freelance Opportunities  
@@ -18,9 +18,9 @@ I love writing clean, maintainable code and constantly learning new technologies
 
 ### 🧩 Tech Stack
 **Languages:** Python, SQL, JavaScript  
-**Frameworks:** Django, FastAPI, Flask  
-**Databases:** PostgreSQL, MySQL, SQLite  
-**Tools & DevOps:** Docker, Git, GitHub Actions, Nginx, AWS EC2  
+**Frameworks:** Django, FastAPI
+**Databases:** MySQL, Mongodb
+**Tools & DevOps:** Docker, Git, Nginx, AWS
 **Other Skills:** RESTful APIs, Authentication, Unit Testing, WebSockets  
 
 ---
@@ -36,12 +36,6 @@ I love writing clean, maintainable code and constantly learning new technologies
 - 🌐 Portfolio: [yourwebsite.com](#)
 - 💼 LinkedIn: [https://www.linkedin.com/in/rahulsinghfd/](#)
 - 📧 Email: [rahulxd67@yahoo.com](mailto:rahulxd67@yahoo.com)
-
----
-
-### ⚙️ GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
