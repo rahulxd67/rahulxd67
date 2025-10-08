@@ -26,14 +26,14 @@ I love writing clean, maintainable code and constantly learning new technologies
 ---
 
 ### 🧠 Featured Projects
-- 🏗️ [Django REST API Boilerplate](#) — production-ready backend template  
-- ⚡ [FastAPI Microservice Example](#) — high-performance async API  
-- 📊 [Task Tracker App](#) — full CRUD app with JWT auth  
+- 🏗️ [Update Soon](#) — production-ready backend template  
+- ⚡ [Update Soon](#) — high-performance async API  
+- 📊 [Update Soon](#) — Update Soon
 
 ---
 
 ### 📫 Connect With Me
-- 🌐 Portfolio: [yourwebsite.com](#)
+- 🌐 Portfolio: [rahulbackend.tech](#)
 - 💼 LinkedIn: [https://www.linkedin.com/in/rahulsinghfd/](#)
 - 📧 Email: [rahulxd67@yahoo.com](mailto:rahulxd67@yahoo.com)
 
