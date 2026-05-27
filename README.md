@@ -18,8 +18,8 @@ Web Security Basics
 Security Monitoring & Analysis
 
 
-**🛠️ Tech Stack
-**Security & Networking
+🛠️ Tech Stack
+Security & Networking
 TCP/IP
 Networking Fundamentals
 OWASP Top 10
@@ -38,19 +38,18 @@ Linux
 Windows
 
 📚 Projects
-**Vulnerability Assessment Lab
-**Performed basic vulnerability scanning using Nmap
+Vulnerability Assessment Lab
+Performed basic vulnerability scanning using Nmap
 Identified open ports and services in lab environments
 
-**Network Traffic Analysis
-**Captured and analyzed packets using Wireshark
+Network Traffic Analysis
+Captured and analyzed packets using Wireshark
 Studied HTTP, DNS, and TCP communication
 
-**Web Application Security Testing
-**Practiced security testing on DVWA and OWASP Juice Shop using Burp Suite
+Web Application Security Testing
+Practiced security testing on DVWA and OWASP Juice Shop using Burp Suite
 
-**🎯 Goals
-**
+🎯 Goals
 Currently improving my skills in:
 
 SOC Operations
