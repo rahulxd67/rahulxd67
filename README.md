@@ -1,28 +1,60 @@
 # 👋 Hi, I’m Rahul Singh
 
-🛡️ Cloud Security Engineer | AWS | DevSecOps | AI-Aware Security  
-🌍 Based in India | Open to Remote & Freelance Opportunities
+🔐 Entry-Level Cybersecurity Analyst | Python | Linux | Network Security
+🌍 Based in India | Open to Internship & Entry-Level Opportunities
 
 ---
 
 ## 🚀 About Me
 
-I’m a Cloud Security Engineer focused on securing cloud-native systems on AWS through automation, strong identity controls, and security-by-design principles. I work on building scalable and resilient cloud architectures with integrated security, monitoring, and compliance controls.
+I’m a Computer Science graduate passionate about cybersecurity, networking, and security analysis. I enjoy learning about system security, vulnerability assessment, and network monitoring through hands-on labs and practical environments.
 
-I’m particularly interested in how AI and automation can enhance cloud security operations — such as improving detection, reducing misconfigurations, and strengthening API and workload protection — while keeping human decision-making at the core.
+Currently focusing on:
 
-🔐 Currently working on: AWS cloud security architecture, DevSecOps pipelines, infrastructure-as-code security, and automated security controls  
-🤖 Learning: AI/ML concepts for cybersecurity, threat detection techniques, zero-trust architectures  
-💬 Ask me about: AWS IAM, cloud networking security, DevSecOps security, Terraform, monitoring & incident response  
-🤝 Open to: Collaboration, freelance projects, and cloud / platform security roles
+Network Security Fundamentals
+Linux & System Security
+Vulnerability Assessment
+Web Security Basics
+Security Monitoring & Analysis
 
----
 
-## 🧩 Tech Stack
+**🛠️ Tech Stack
+**Security & Networking
+TCP/IP
+Networking Fundamentals
+OWASP Top 10
+Vulnerability Assessment
+Tools
+Wireshark
+Nmap
+Kali Linux
+Burp Suite
+Programming
+Python
+Basic Bash
+HTML/CSS
+Operating Systems
+Linux
+Windows
 
-Cloud: AWS  
-Security & DevSecOps: IAM, VPC security, WAF, security groups, CI/CD security, zero trust concepts  
-Languages: Python, Bash, SQL  
-Automation & Monitoring: Python automation, security monitoring, anomaly detection fundamentals  
-Tools: Docker, Git, Terraform, Nginx, AWS Security Hub  
-Other: Threat modeling, incident response basics, logging & monitoring, cloud compliance fundamentals
+📚 Projects
+**Vulnerability Assessment Lab
+**Performed basic vulnerability scanning using Nmap
+Identified open ports and services in lab environments
+
+**Network Traffic Analysis
+**Captured and analyzed packets using Wireshark
+Studied HTTP, DNS, and TCP communication
+
+**Web Application Security Testing
+**Practiced security testing on DVWA and OWASP Juice Shop using Burp Suite
+
+**🎯 Goals
+**
+Currently improving my skills in:
+
+SOC Operations
+Network Security
+Linux Administration
+Security Monitoring
+Python for Security Automation
