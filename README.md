@@ -19,6 +19,7 @@ Security Monitoring & Analysis
 
 
 🛠️ Tech Stack
+
 Security & Networking
 TCP/IP
 Networking Fundamentals
@@ -38,6 +39,7 @@ Linux
 Windows
 
 📚 Projects
+
 Vulnerability Assessment Lab
 Performed basic vulnerability scanning using Nmap
 Identified open ports and services in lab environments
@@ -50,6 +52,7 @@ Web Application Security Testing
 Practiced security testing on DVWA and OWASP Juice Shop using Burp Suite
 
 🎯 Goals
+
 Currently improving my skills in:
 
 SOC Operations
